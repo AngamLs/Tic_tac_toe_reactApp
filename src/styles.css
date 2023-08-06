@@ -1,0 +1,32 @@
+body {
+  box-sizing: border-box;
+  background: linear-gradient(to left, #28b487, #7dd56f);
+}
+
+.App {
+  font-size: 2rem;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  border-radius: 0%;
+  height: 4rem;
+  width: 4rem;
+}
+
+.status {
+  margin-top: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.board {
+  margin-top: 40vh;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
